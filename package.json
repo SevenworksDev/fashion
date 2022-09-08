@@ -1,0 +1,21 @@
+{
+  "name": "fashion",
+  "version": "1.0.0",
+  "description": "Change the colors of your terminal.",
+  "main": "lib/fashion.js",
+  "engines": {
+    "node": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SevenworksGD/fashion.git"
+  },
+  "keywords": [
+    "fashion",
+    "color",
+    "colors",
+    "terminal"
+  ],
+  "author": "Sevenworks",
+  "license": "GNU"
+}
